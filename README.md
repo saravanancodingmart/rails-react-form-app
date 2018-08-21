@@ -1,24 +1,20 @@
-# README
+# React-Rails-app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Follow the steps that mentioned below before running this application:
 
-Things you may want to cover:
+* **1.** Run **npm install** to get all dependencies to your applications
 
-* Ruby version
+* **2.** Run **yarn install** to lock all your dependencies
 
-* System dependencies
+* **3.** Run **bundle install** to backend dependencies
 
-* Configuration
+* **4.** Set your **username and password** of **Mysql2 database in **database.yml**
 
-* Database creation
+* **5.** Run **rake db:setup**
 
-* Database initialization
+* **6.** Run **rails s**
 
-* How to run the test suite
+* **Thats it If any other error comes ? Just google it -- Haha! **
 
-* Services (job queues, cache servers, search engines, etc.)
+**Happy coding!!**
 
-* Deployment instructions
-
-* ...
