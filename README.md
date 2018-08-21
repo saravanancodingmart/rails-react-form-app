@@ -8,7 +8,7 @@ Follow the steps that mentioned below before running this application:
 
  **3.** Run **bundle install** to backend dependencies
 
- **4.** Set your **username and password** of **Mysql2 database in** database.yml**
+ **4.** Set your **username and password** of **Mysql2 database in** database.yml
 
  **5.** Run **rake db:setup**
 
